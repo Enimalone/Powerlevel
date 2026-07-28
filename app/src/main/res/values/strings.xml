@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Macro Helper</string>
+    <string name="accessibility_service_description">Permite tocar botones, escribir texto y ejecutar macros dentro de otras apps según las reglas que definas.</string>
+</resources>
